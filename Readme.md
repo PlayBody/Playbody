@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋👋👋👋👋 <b>Welcome To My Code Sp@ce!</b> 👋👋👋👋👋
+  👋👋👋👋👋 <b>Senior!</b> 👋👋👋👋👋
 </h2>
 
 <h4 align='center'>
@@ -7,22 +7,20 @@
 </h4>
 
 <!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
      <a href="https://github.com/corasphinx">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;BlockChain%20Developer;10+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20end%20Developer;Application%20Developer;15+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc
-<br>🔸 BackEnd - Django, ASP.NET MVC(Core), Node, Express, Laravel, RoR, Spring, etc
-<br>🔸 AWS, Docker, Kubernete, Firebase
-<br>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-<br>🔸 Ethereum, Solidity, Smart Contract, Solana, Anchor
+<p>🔸 FrontEnd - React.js, Flutter, React-Native, Telegram MiniApp etc
+<br>🔸 Application - PyQT, QT, WPF etc
+<br>🔸 BackEnd - SpringBoot, Golang, Node, Flask, .Net etc
+<br>🔸 AWS, Docker, Kubernete, Firebase, Digital Ocean etc
+<br>🔸 Game - Unity, UnrealEngine, 3dsmax, Maya etc
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
@@ -63,7 +61,7 @@
 	
   <summary><b>🔎 Github Profile Details</b></summary>
   <br/>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGambles&theme=github_dark" alt="DevGambles" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Playbody&theme=github_dark" alt="Playbody" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
@@ -72,4 +70,4 @@
 
  <summary><b>🔥 Github Streaks</b></summary>
  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGambles&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="DevGambles" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Playbody&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Playbody" /></p>
