@@ -12,13 +12,13 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20end%20Developer;Application%20Developer;15+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Application%20Developer;15+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 FrontEnd - React.js, Flutter, React-Native, Telegram MiniApp etc
-<br>🔸 Application - PyQT, QT, WPF etc
-<br>🔸 BackEnd - SpringBoot, Golang, Node, Flask, .Net etc
+<p>🔸 Application - PyQT, QT, WPF etc
+<br>🔸 BackEnd - SpringBoot, Golang, Node, Flask, .Net, Rust etc
+<br>🔸 FrontEnd - React.js, Flutter, React-Native, Telegram MiniApp etc
 <br>🔸 AWS, Docker, Kubernete, Firebase, Digital Ocean etc
 <br>🔸 Game - Unity, UnrealEngine, 3dsmax, Maya etc
 <table>
