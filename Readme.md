@@ -65,8 +65,8 @@
 
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGambles&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="DevGambles" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevGambles&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="DevGambles" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Playbody&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Playbody" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Playbody&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Playbody" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
  <br/>
