@@ -20,7 +20,6 @@
 <br>🔸 BackEnd - SpringBoot, Golang, Node, Flask, .Net, Rust etc
 <br>🔸 FrontEnd - React.js, Flutter, React-Native, Telegram MiniApp etc
 <br>🔸 AWS, Docker, Kubernete, Firebase, Digital Ocean etc
-<br>🔸 Game - Unity, UnrealEngine, 3dsmax, Maya etc
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
